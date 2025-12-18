@@ -1,0 +1,7 @@
+com\inswit\sftp\controller\SFTPController.class
+com\inswit\sftp\ServletInitializer.class
+com\inswit\sftp\service\MainReportService.class
+com\inswit\sftp\service\SftpService.class
+com\inswit\sftp\config\DataSourceConfig.class
+com\inswit\sftp\service\CheckClass.class
+com\inswit\sftp\SFTPApplication.class
